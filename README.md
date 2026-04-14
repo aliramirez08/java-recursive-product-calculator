@@ -34,7 +34,7 @@ This Java program calculates the product of five user-input integers using recur
 4. Run:
 
    ```bash
-   java java-recusrive-product.calculator.java
+   java java-recursive-product.calculator.java
    ```
 ### Screenshots
 
