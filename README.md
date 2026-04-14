@@ -29,12 +29,12 @@ This project was developed as part of strengthening my understanding of recursio
 3. Compile:
 
    ```bash
-   javac Recursive-Product.java
+   javac RecursiveProduct.java
    ```
 4. Run:
 
    ```bash
-   java Recursive-Product.java
+   java RecursiveProduct.java
    ```
 ### Screenshots
 
