@@ -34,7 +34,7 @@ This project was developed as part of strengthening my understanding of recursio
 4. Run:
 
    ```bash
-   java RecursiveProduct.java
+   java RecursiveProduct
    ```
 ### Screenshots
 
