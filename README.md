@@ -1,6 +1,6 @@
 # Recursive Product Calculator (Java)
 
-This Java program calculates the product of five user-input integers using recursion. It demonstrates how recursive functions can be used to solve mathematical problems efficiently while maintaining clean, modular code.
+This project was developed as part of strengthening my understanding of recursion and core Java programming concepts. This Java program calculates the product of five user-input integers using recursion. It demonstrates how recursive functions can be used to solve mathematical problems efficiently while maintaining clean, modular code.
 
 ## Features
 
@@ -29,12 +29,12 @@ This Java program calculates the product of five user-input integers using recur
 3. Compile:
 
    ```bash
-   java java-recursive-product-calculator.java
+   javac Recursive-Product.java
    ```
 4. Run:
 
    ```bash
-   java java-recursive-product.calculator.java
+   java Recursive-Product.java
    ```
 ### Screenshots
 
