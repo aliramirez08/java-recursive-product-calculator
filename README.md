@@ -57,7 +57,7 @@ This project helped me understand how recursion works by breaking a problem into
 - Allow dynamic number of inputs instead of fixed 5
 - Add better error handling for invalid input
 
-### Screenshots
+## Screenshots
 
 ![RecursiveProductSource1](screenshots/RecursiveProductSource.png)
 
