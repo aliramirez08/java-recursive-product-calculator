@@ -9,33 +9,39 @@ This project was built to strengthen my understanding of recursion and core Java
 - Includes input validation
 - Modular structure with clear function separation
 
-## Concepts Covered
+## Concepts Demonstrated
 
 - Recursion
-- Method calls and stack behavior
+- Call stack behavior
+- Base case and recursive case
 - Input validation
-- Problem decomposition
 
-## What I Learned
+## Technologies Used
 
-- How recursion works and how functions call themselves
-- The importance of base cases to prevent infinite loops
-- Structuring code into reusable methods
+- Java
+- JDK 11+
 
-## 🔧 How to Run
+## Project Structure
 
-1. Clone the repository
-2. Open in a Java IDE (Eclipse, VS code, etc.)
-3. Compile:
+- `RecursiveProduct.java` – Main program with recursive logic
 
-   ```bash
-   javac RecursiveProduct.java
-   ```
-4. Run:
+## How to Run
 
-   ```bash
-   java RecursiveProduct
-   ```
+## Prerequisites
+- Java Development Kit (JDK 11+)
+- Any Java IDE or terminal
+
+### Steps
+1. Clone or download the repository
+2. Navigate to the project directory
+3. Compile the program:
+```bash
+javac RecursiveProduct.java
+```
+4. Run the program:
+```bash
+java RecursiveProduct
+```
 
 ### Example
 
@@ -43,6 +49,13 @@ This project was built to strengthen my understanding of recursion and core Java
 Input: 2 3 4 5 6
 Output: 720
 ```
+
+## What I Learned
+This project helped me understand how recursion works by breaking a problem into smaller repeated steps. I also learned the importance of defining a proper base case to prevent infinite recursion.
+
+## Future Improvements
+- Allow dynamic number of inputs instead of fixed 5
+- Add better error handling for invalid input
 
 ### Screenshots
 
