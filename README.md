@@ -27,7 +27,7 @@ This project was built to strengthen my understanding of recursion and core Java
 
 ## How to Run
 
-## Prerequisites
+### Prerequisites
 - Java Development Kit (JDK 11+)
 - Any Java IDE or terminal
 
