@@ -43,7 +43,7 @@ javac RecursiveProduct.java
 java RecursiveProduct
 ```
 
-### Example
+## Example
 
 ```text
 Input: 2 3 4 5 6
